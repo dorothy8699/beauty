@@ -118,4 +118,6 @@ jQuery(document).ready(function(){
 
 
     jQuery('#content-area').html(str);
+
+    baguetteBox.run('.tz-gallery');
 });
