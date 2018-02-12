@@ -8,7 +8,7 @@ jQuery(document).ready(function(){
     },
     {
         "image" : "images/ranking/002.jpg",
-        "name" : "Yaman 10t美容仪",
+        "name" : "YAMAN HRF-10T新款提拉紧致抗衰老美容仪",
         "content" : "新一代抗衰美颜神器，加上粉色或黑色的质感设计，获得了雅萌YAMAN粉丝们的热烈追捧。",
         "size" : "",
         "price" : "39960日元",
