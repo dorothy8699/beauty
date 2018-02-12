@@ -71,7 +71,7 @@ jQuery(document).ready(function(){
         "price" : "10800日元",
     },
     {
-        "image" : "images/ranking/011.jpg",
+        "image" : "images/ranking/011.png",
         "name" : "资生堂悦薇质纯抗皱眼膜",
         "content" : "添加有视黄醇成分，可以促进胶原蛋白的生成，预防和缓解皱纹行程。添加的胶原蛋白、透明质酸、丝氨酸可以加强保湿功效，同时还含有抗氧化的姜黄根和维生素E成分。特别适合有局部纹路的部位使用，如果不添加香料会更好。",
         "size" : "12包24片",
