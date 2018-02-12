@@ -29,6 +29,13 @@ jQuery(document).ready(function(){
         "price" : "14000日元",
     },
     {
+        "image" : "images/ranking/015.jpg",
+        "name" : "dds小星星鲑鱼精华",
+        "content" : "具有改善并修复肌肤功效,建议配合皇家ROYAL脐带血精华液使用",
+        "size" : "48粒",
+        "price" : "23760日元",
+    },
+    {
         "image" : "images/ranking/004.jpg",
         "name" : "日本BPC睡眠面膜超声刀睡美人面膜",
         "content" : "",
