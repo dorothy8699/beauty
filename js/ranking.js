@@ -72,7 +72,7 @@ jQuery(document).ready(function(){
         "price" : "9720日元",
     },
         {
-        "image" : "images/ranking/009.jpg",
+        "image" : "images/ranking/009.png",
         "name" : "资生堂 怡丽丝尔优悦活颜弹润焕活面膜",
         "content" : "焕活面膜修护肌肤烦恼，肌醇成分促进肌肤自生胶原蛋白自生，迷迭香叶提取物和甘油成分促进肌肤生物体内结合水自生，呵护肌肤弹性，充分滋润并包裹肌肤，将美容成分渗透至肌肤内部，保持肌肤滋润。",
         "size" : "30ml x 6片",
@@ -86,7 +86,7 @@ jQuery(document).ready(function(){
         "price" : "10800日元",
     },
     {
-        "image" : "images/ranking/011.png",
+        "image" : "images/ranking/011.jpg",
         "name" : "资生堂悦薇质纯抗皱眼膜",
         "content" : "添加有视黄醇成分，可以促进胶原蛋白的生成，预防和缓解皱纹行程。添加的胶原蛋白、透明质酸、丝氨酸可以加强保湿功效，同时还含有抗氧化的姜黄根和维生素E成分。特别适合有局部纹路的部位使用，如果不添加香料会更好。",
         "size" : "12包24片",
