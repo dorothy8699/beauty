@@ -3,7 +3,7 @@ jQuery(document).ready(function(){
         "image" : "images/sk2/001.jpg",
         "name" : "SK-2神仙水",
         "content" : "SK-II护肤精华露，又称SK-II“神仙水”，是一款流行了数十年的高档化妆品。抗老化、促进新陈代谢、保湿、美白。",
-        "size" : "75ml/160ml/230",
+        "size" : "75ml/160ml/230ml",
         "price" : "9180日元/18360日元/23760日元",
     },
     {
