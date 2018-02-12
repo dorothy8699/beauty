@@ -1,5 +1,13 @@
 jQuery(document).ready(function(){
-    var json = [ {
+    var json = [
+    {
+        "image" : "images/ranking/013.jpg",
+        "name" : "【正规品】BEAUTY BAR 24k黄金棒",
+        "content" : "T字头镀24k纯金每秒震动6000次的按摩棒有释放黄金负离子的功效",
+        "size" : "24k纯金",
+        "price" : "18144日元",
+    },
+    {
         "image" : "images/ranking/001.jpg",
         "name" : "江田水素水杯",
         "content" : "自来水中都含有对人体有害的氯，一般携带型的水素生成器无法隔绝自来水中的氯臭。而江田杯配有特殊陶瓷，可以隔绝氯臭，抗菌并使水变得清甜可口",
@@ -18,7 +26,7 @@ jQuery(document).ready(function(){
         "name" : "ROYAL LARGE脐带血引流精华液胎盘素",
         "content" : "增强肌底自我含水量，醒肤、焕肤、活化、抗氧化。平衡肌肤水油平衡，修复角质层，收缩毛孔，紧致肌肤。",
         "size" : "90包每包1.3ml",
-        "price" : "8249日元",
+        "price" : "14000日元",
     },
     {
         "image" : "images/ranking/004.jpg",

@@ -14,11 +14,11 @@ jQuery(document).ready(function(){
         "price" : "10800日元/",
     },
     {
-        "image" : "images/sk2/003.jpg",
+        "image" : "images/sk2/003.png",
         "name" : "小灯泡",
         "content" : "SK-II环采臻皙钻白精华露。清爽水润的乳液状质地，比一般的乳液可能还要稀薄一些，延展性非常的好。能有效抑制黑色素生成，抑制隐藏斑生长，整体提亮肤色的功效。",
-        "size" : "30ml/50ml/75ml",
-        "price" : "17280日元/24840日元/34560日元",
+        "size" : "30ml/50ml",
+        "price" : "17280日元/24840日元",
     },
     {
         "image" : "images/sk2/004.png",
