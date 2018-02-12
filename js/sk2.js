@@ -35,7 +35,7 @@ jQuery(document).ready(function(){
         "price" : "13500日元/19980日元",
     },
     {
-        "image" : "images/sk2/006.jpg",
+        "image" : "images/sk2/006.png",
         "name" : "肌源修护焕采眼霜",
         "content" : "3点眼周肌龄逆转，直击眼底、上眼睑及眼角老化问题",
         "size" : "15g",
