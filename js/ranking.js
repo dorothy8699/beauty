@@ -57,7 +57,7 @@ jQuery(document).ready(function(){
         "price" : "9720日元",
     },
         {
-        "image" : "images/ranking/009.png",
+        "image" : "images/ranking/009.jpg",
         "name" : "资生堂 怡丽丝尔优悦活颜弹润焕活面膜",
         "content" : "焕活面膜修护肌肤烦恼，肌醇成分促进肌肤自生胶原蛋白自生，迷迭香叶提取物和甘油成分促进肌肤生物体内结合水自生，呵护肌肤弹性，充分滋润并包裹肌肤，将美容成分渗透至肌肤内部，保持肌肤滋润。",
         "size" : "30ml x 6片",
@@ -79,10 +79,10 @@ jQuery(document).ready(function(){
     },
     {
         "image" : "images/ranking/012.jpg",
-        "name" : "怡丽丝尔ELIXIR WHITE 亮白睡眠凝胶啫喱面膜紧致收毛孔",
-        "content" : "在睡前将亮白细润睡眠面膜涂抹于面部，清爽啫喱质地肌肤无负担，弹性凝胶在睡眠过程中伴随小颗粒溶解，修护日间损伤，醒来即可迎接白皙、细润的水光肌肤！",
+        "name" : "怡丽丝尔亮白/保湿凝胶啫喱面膜",
+        "content" : "美白睡眠面膜/保湿滋润睡眠面膜",
         "size" : "105g",
-        "price" : "3456日元",
+        "price" : "保湿3456日元/美白3024日元",
     }
     ];
 
