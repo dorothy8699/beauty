@@ -91,6 +91,13 @@ jQuery(document).ready(function(){
         "content" : "美白睡眠面膜/保湿滋润睡眠面膜",
         "size" : "105g",
         "price" : "保湿3024日元/美白3456日元",
+    },
+    {
+        "image" : "images/ranking/014.jpg",
+        "name" : "资生堂红腰子精华",
+        "content" : "红妍肌活傲娇精华 ",
+        "size" : "30ml/50ml",
+        "price" : "8640日元/12960日元",
     }
     ];
 
