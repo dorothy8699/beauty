@@ -44,6 +44,41 @@ jQuery(document).ready(function(){
         "size" : "125ml",
         "price" : "日乳11880日元/夜乳14040日元",
     },
+    {
+        "image" : "images/cpb/008.jpg",
+        "name" : "CPB温和卸妆乳",
+        "content" : "可以配合CPB洁面一起使用，温和舒适卸妆干净",
+        "size" : "125g",
+        "price" : "6480日元",
+    },
+    {
+        "image" : "images/cpb/009.jpg",
+        "name" : "CPB高级化妆棉",
+        "content" : "",
+        "size" : "120枚",
+        "price" : "864日元",
+    },
+    {
+        "image" : "images/cpb/010.jpg",
+        "name" : "CPB肌肤之钥保湿露",
+        "content" : "渗透力强保湿彻底淡雅清香",
+        "size" : "170ml",
+        "price" : "11340日元",
+    },
+    {
+        "image" : "images/cpb/011.jpg",
+        "name" : "CPB SYNACTIF系列化妆水保湿露",
+        "content" : "渗透力更强吸收更快",
+        "size" : "125ml",
+        "price" : "21600日元",
+    },
+    {
+        "image" : "images/cpb/012.jpg",
+        "name" : "CPB日间面霜",
+        "content" : "乳含亮肌复合物EX高度保湿及促进细胞再生",
+        "size" : "50g",
+        "price" : "11880日元",
+    },
     ];
 
     var str = "";
