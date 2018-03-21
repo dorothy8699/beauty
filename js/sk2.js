@@ -42,14 +42,14 @@ jQuery(document).ready(function(){
         "price" : "11880日元",
     },
     {
-        "image" : "images/SK2/001.jpeg",
+        "image" : "images/SK2/007.jpg",
         "name" : "护肤精华露樱花限量版",
         "content" : "限定发售。 SK-II人气No.1的护肤精华露推出了樱花限定款，瓶身设计灵感取自只有这个季节才能欣赏的美丽优雅的樱花。",
         "size" : "230ml",
         "price" : "19200日元",
     },
     {
-        "image" : "images/SK2/002.jpeg",
+        "image" : "images/SK2/008.png",
         "name" : "轻润净透空气防晒霜",
         "content" : "轻润净透空气防护乳30G:清透遮瑕，高倍防晒，焕白护肤，隔离环境污染、伤害。",
         "size" : "30g",
