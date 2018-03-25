@@ -8,7 +8,7 @@ jQuery(document).ready(function(){
     },{
         "image" : "images/cpb/002.jpg",
         "name" : "CPB钻光粉底霜",
-        "content" : "轻松提亮肤色，时间越久妆越自然<br>OC00 OC10 OC20 OC00 <br> PO10 PO20 PO30 BO20",
+        "content" : "轻松提亮肤色,时间越久妆越自然<br>OC00 OC10 OC20 OC00 <br> PO10 PO20 PO30 BO20",
         "size" : "25g",
         "price" : "12960日元",
     },{
@@ -20,7 +20,7 @@ jQuery(document).ready(function(){
     },{
         "image" : "images/cpb/004.jpg",
         "name" : "CPB金致乳霜",
-        "content" : "蕴含多种尖端特殊成分，有效改善各种肌肤烦恼",
+        "content" : "蕴含多种尖端特殊成分,有效改善各种肌肤烦恼",
         "size" : "30g",
         "price" : "64800日元",
     },{
@@ -40,14 +40,14 @@ jQuery(document).ready(function(){
     {
         "image" : "images/cpb/007.jpg",
         "name" : "CPB日夜乳",
-        "content" : "日乳有SPF25的防晒指数，夜乳提高肌肤代谢唤回细胞再生",
+        "content" : "日乳有SPF25的防晒指数,夜乳提高肌肤代谢唤回细胞再生",
         "size" : "125ml",
         "price" : "日乳11880日元/夜乳14040日元",
     },
     {
         "image" : "images/cpb/008.jpg",
         "name" : "CPB温和卸妆乳",
-        "content" : "可以配合CPB洁面一起使用，温和舒适卸妆干净",
+        "content" : "可以配合CPB洁面一起使用,温和舒适卸妆干净",
         "size" : "125g",
         "price" : "6480日元",
     },
