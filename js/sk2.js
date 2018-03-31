@@ -15,7 +15,7 @@ jQuery(document).ready(function(){
     },
     {
         "image" : "images/sk2/003.png",
-        "name" : "小灯泡",
+        "name" : "小灯泡(非常紧缺，需要预约)",
         "content" : "SK-II环采臻皙钻白精华露。清爽水润的乳液状质地,比一般的乳液可能还要稀薄一些,延展性非常的好。能有效抑制黑色素生成,抑制隐藏斑生长,整体提亮肤色的功效。",
         "size" : "30ml/50ml",
         "price" : "17280日元/24840日元",
@@ -42,14 +42,14 @@ jQuery(document).ready(function(){
         "price" : "11880日元",
     },
     {
-        "image" : "images/SK2/007.jpg",
+        "image" : "images/sk2/007.jpg",
         "name" : "护肤精华露樱花限量版",
         "content" : "限定发售。 SK-II人气No.1的护肤精华露推出了樱花限定款,瓶身设计灵感取自只有这个季节才能欣赏的美丽优雅的樱花。",
         "size" : "230ml",
         "price" : "19200日元",
     },
     {
-        "image" : "images/SK2/008.png",
+        "image" : "images/sk2/008.png",
         "name" : "轻润净透空气防晒霜",
         "content" : "轻润净透空气防护乳30G:清透遮瑕,高倍防晒,焕白护肤,隔离环境污染、伤害。",
         "size" : "30g",
